@@ -1,0 +1,40 @@
+.child{
+    border:5px solid black;
+    margin: 110px;
+    padding: 15px;
+    background-color: gray;
+
+}
+*{
+    box-sizing: border-box;
+}
+.Parent{
+    display: flex;
+}
+.child1{
+    color:cyan;
+    text-align: right;
+    font-size: 25px;
+    
+}
+.child2{
+    color:blue;
+    text-align: right;
+    font-size: 25px;
+    
+}
+
+.child3{
+    color:yellowgreen;
+    text-align: right;
+    font-size: 25px;
+    
+    
+}
+
+h{
+    color:red;
+    font-size: 50px;
+    text-align: center;
+    margin:710px;
+}
