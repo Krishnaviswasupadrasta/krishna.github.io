@@ -1,0 +1,62 @@
+body{
+    background-color: purple;
+}
+#header-nav{
+    background-color: yellow;
+    border-radius: 0;
+    border:0;
+    height: 75px;
+}
+#navbar-brand{
+    color:black;
+    text-shadow: 10px 10px 10px ;
+}
+h2{
+    color:chartreuse;
+    text-align: center;
+    margin-top: 30px;
+}
+h3{
+    margin-left: 750px;
+    color: darkorange;
+    margin-top: 100px;
+}
+.harry{
+    width:500px;
+    margin-left: 530px;
+    margin-top: 19px;
+    font-size: 20px;
+    color: cyan;
+}
+h4{
+    margin-left: 750px;
+    color: darkorange;
+    margin-top: 100px;
+
+}
+.Ron{
+    width:520px;
+    margin-left: 270px;
+    margin-top: 19px;
+    font-size: 20px;
+    color:deeppink;
+    margin-bottom: 50px;
+
+}
+h5{
+    margin-left: 750px;
+    color:blanchedalmond;
+    margin-top: 100px;
+
+}
+.Hermonie{
+    width:520px;
+    margin-left: 540px;
+    margin-top: 19px;
+    font-size: 20px;
+    color:yellow;
+    margin-bottom: 50px;
+
+}
+
+
